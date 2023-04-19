@@ -115,7 +115,7 @@ This work would not have been possible without the decades of AI research and op
 
 &emsp; &emsp; https://inst.eecs.berkeley.edu/~cs188/fa18/
 
-This project is also open-sourced for education purposes.
+This project is also open-sourced for educational purposes.
 
 
 
