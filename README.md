@@ -99,7 +99,7 @@ Additionally, the architecture of the neural network can be adjusted in the mode
 <br>
 <h2></b>5. Credits and Acknowledgements</b></h2>
 
-First and foremost, this work would not have been possible without the decades of AI research and open-source projects that are available for students to learn. 
+This work would not have been possible without the decades of AI research and open-source projects that are available for students to learn. 
 
 [1] This project was inspired by the Snake Game Reinforcement Learning tutorial produced by Patrick Loeber:
 
