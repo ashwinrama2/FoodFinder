@@ -1,4 +1,4 @@
-# Autonomous Car FoodFinder
+<h1><p align="center"> Autonomous Car FoodFinder
 
 <h2><b>1. Introduction and Description</b></h2>
 
