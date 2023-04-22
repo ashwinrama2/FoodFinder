@@ -1,6 +1,5 @@
 # Autonomous Car FoodFinder
-By Ashwin Ramaswamy
-April 2023
+By Ashwin Ramaswamy <br> April 2023
 
 <h2><b>1. Introduction and Description</b></h2>
 
