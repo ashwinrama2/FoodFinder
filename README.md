@@ -1,4 +1,6 @@
 # Autonomous Car FoodFinder
+By Ashwin Ramaswamy
+April 2023
 
 <h2><b>1. Introduction and Description</b></h2>
 
@@ -22,11 +24,7 @@ This project can run on any platform that is able to support the following packa
   <li>Matplotlib version >= 3.3.6</li>
 </ul>
 
-A display must be available if you want to enable the GUI as shown in Figure 1. The GUI can be disabled by commenting out the following line in the play_step() function of game.py:
-
-```self.update_ui()```
-
-along with commenting out all Pygame components. They only reside in game.py.
+A display must be available if you want to enable the GUI as shown in Figure 1. The GUI can be disabled by commenting out the following line in the play_step() function of game.py: ```self.update_ui()``` along with commenting out all Pygame components. They only reside in game.py.
 
 <br>
 <h2><b>3. Running the Code </b></h2>
