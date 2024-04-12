@@ -3,7 +3,7 @@ By Ashwin Ramaswamy <br> April 2023
 
 <h2><b>1. Introduction and Description</b></h2>
 
-This document is a comprehensive guide to the FoodFinder Autonomous Car project. It is a simple reinforcement learning project entirely written in Python and its associated frameworks and libraries. Within 30-45 minutes, a user will be able to train a car to drive to every fool pellet while staying within the road infrastructure.
+This document is a comprehensive guide to the FoodFinder Autonomous Car project. It is a simple reinforcement learning project entirely written in Python and its associated frameworks and libraries. Within 30-45 minutes, a user will be able to train a car to drive to every food pellet while staying within the road infrastructure.
 
 <p align="center">
 <img src= https://user-images.githubusercontent.com/70033778/232990007-97b392cf-362f-4424-9281-86cea2ee2c7e.png>
